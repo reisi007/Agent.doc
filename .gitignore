@@ -1,0 +1,9 @@
+# Node.js standard
+node_modules/
+
+# Tool configurations & scripts
+import-gemini.mjs
+repomix-agentwiki.md
+
+# NOTE: project-instructions.md is intentionally NOT ignored!
+# It is the compiled entry point for AI Agents.

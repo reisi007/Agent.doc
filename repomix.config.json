@@ -1,0 +1,13 @@
+{
+  "output": {
+    "filePath": "repomix-agentwiki.md",
+    "style": "markdown",
+    "headerText": "## 🚀 META-DEVELOPMENT CONTEXT\nThis document contains the context for developing the AI Agent Template itself. It includes both our meta-tasks and the example structure we are building."
+  },
+  "ignore": {
+    "customPatterns": [
+      "import-gemini.mjs",
+      "project-instructions.md"
+    ]
+  }
+}

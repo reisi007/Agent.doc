@@ -1,0 +1,21 @@
+{
+  "output": {
+    "filePath": "project-instructions.md",
+    "style": "markdown",
+    "headerText": "## 🚀 AI AGENT DOC-AS-CODE: SEED INSTRUCTIONS\nThis is the base workflow and example structure for a NEW project. Follow these rules to set up your own Doc-as-Code architecture."
+  },
+  "ignore": {
+    "customPatterns": [
+	  ".gitignore",
+      "import-gemini.mjs",
+      "project-instructions.md",
+      "repomix-agentwiki.md",
+      "repomix.config.json",
+      "repomix.seed.config.json",
+      "package*.json",
+      "node_modules/**",
+      "docs/**",
+      "Agents.todo.md"
+    ]
+  }
+}
